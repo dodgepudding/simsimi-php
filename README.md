@@ -4,7 +4,7 @@ simsimi sdk with no auth.
 
 Usage
 ----------
-```
+```php
 include("simsimi.class.php");
 $name = "suckit";
 $content = "hi";
